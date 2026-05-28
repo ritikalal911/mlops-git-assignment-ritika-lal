@@ -7,19 +7,19 @@
 
 ## 1. GitHub Network Graph
 
-![1780006260150](image/Assignment1_Report/1780006260150.png)
+![network-graph](image/Assignment1_Report/network-graph.png)
 
 ## 2. Branch Protection Rules
 
 ![branch protection rules](image/Assignment1_Report/branch-protection-1.png)
 
-![1780006180005](image/Assignment1_Report/branch-protection-2.png)
+![branch protection rules](image/Assignment1_Report/branch-protection-2.png)
 
-![1780005783055](image/Assignment1_Report/branch-protection-3.png)
+![branch protection rules](image/Assignment1_Report/branch-protection-3.png)
 
 ## 3. Git Log Output
 
-![1780005794875](image/Assignment1_Report/git-log.png)
+![git-log](image/Assignment1_Report/git-log.png)
 
 ## 4. Reflection on Merge Conflicts
 
