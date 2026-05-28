@@ -25,3 +25,17 @@ as part of the MAI201 MLOps course at Seneca College.
 
 This project follows a Git branching strategy with main and develop branches.
 Feature branches are created from develop and merged back via pull requests.
+
+## Project Structure
+
+- `README.md` - Project documentation
+- `.gitignore` - Python gitignore template
+- `.dockerignore` - Docker exclusions for Python
+- `CODE_OF_CONDUCT.md` - Community guidelines
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch from develop
+3. Commit your changes with meaningful messages
+4. Open a pull request to develop
