@@ -1,5 +1,4 @@
-
-# MLOps Git Assignment 
+# MLOps Git Assignment
 
 ## Project Description
 
@@ -39,3 +38,6 @@ Feature branches are created from develop and merged back via pull requests.
 2. Create a feature branch from develop
 3. Commit your changes with meaningful messages
 4. Open a pull request to develop
+
+**Course:** MAI201 MLOps
+**Date:** 2026-05-28
