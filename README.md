@@ -1,5 +1,9 @@
 # MLOps Git Assignment
 
+**Name :** Ritika Lal
+
+**Student ID:** 130865256
+
 ## Project Description
 
 This repository demonstrates Git branching and collaboration workflows
