@@ -1,8 +1,11 @@
 # Assignment 1 Report
 
 **Student:** Ritika Lal
+
 **Student ID:** 130865256
+
 **Course:** MAI201 MLOps
+
 **Date:** 2026-05-28
 
 ## 1. GitHub Network Graph
