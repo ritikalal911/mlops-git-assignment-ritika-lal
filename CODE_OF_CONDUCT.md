@@ -118,11 +118,28 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
+Community Impact Guidelines were inspired by [Mozilla&#39;s code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+
+## Scope
+
+This Code of Conduct applies within all community spaces, including the
+repository, issues, pull requests, and any other project-related communication.
+
+## Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+## Acknowledgements
+
+This Code of Conduct is adopted for MAI201 MLOps course at Seneca Polytechnic
+to maintain a respectful and inclusive learning environment.
+
+[homepage]: https://www.contributor-covenant.org
